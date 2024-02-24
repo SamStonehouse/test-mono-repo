@@ -1,0 +1,4 @@
+packages:
+  - "./packages/common/*"
+  - "./packages/client/*"
+  - "./packages/server/*"
